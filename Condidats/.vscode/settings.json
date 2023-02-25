@@ -1,0 +1,19 @@
+{
+    "bladeFormatter.format.wrapLineLength": 1200,
+    "dart.lineLength": 200,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "[html]": {
+        "editor.defaultFormatter": "mohd-akram.vscode-html-format"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "fabianlauer.vs-code-xml-format"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    }
+}
